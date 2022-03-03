@@ -1,3 +1,8 @@
+Welcome to the official repository for FINDARR -V1.
+Findarr is a search engine, that bridges the gap between the centralized and decentralized web.
+The v1 has to do with the implementation of the Centralized web using google API.
+With the v2 comes the decentralized WIKI where anyone can become a creator on the web, and earn FINDARR tokens for creating valuable contents.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
